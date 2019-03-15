@@ -1,4 +1,3 @@
-## Konnichiwa Minna-Sama ^^
 MMMMMMMMN-`.y`````:``:`````  `.::.``/          `  ``-:``````   `````      `.:`` ``.``````.``````sMMM
 MMMMMMMMs`/mN..``::.--` ```  `.::``+/              ``:-`..``    ``-`       `--`  `.-`````/.`-`.`.NMM
 MMMMMMMMdmMMm:.`:.:./`` ``   `-/.`/s/   -           ``/.`-`:`   ``-+`       `-`   `.-```.::-.`.:-NMM
@@ -31,6 +30,7 @@ MMMMMMMMMMMMMMMMMMMMMMNmmhss//-`..-ssssooydmNNNmdhyyyyhhdmmNNNmdysosso`.---/+ooy
 MMMMMMMMMMMMMMMMMMMMho/:-..........ossssssoosdNNNNNNNNNNNNNmhysosssss/`......../NMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMd/////:.........:sssssssssoosyddmmmmdhysoossssssss-`.....--:/syNMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMN//////:-...``..-sssssoosssssssooooooosss+osssssso..--:///////smdMMMMMMMMMMMMMMMM
+
 
 ## Instalation
 - Clone the repo.
